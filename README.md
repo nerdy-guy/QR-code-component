@@ -22,9 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Solution](https://github.com/nerdy-guy/QR-code-component)
 - [Live Site](https://nerdy-guy.github.io/QR-code-component/)
 
-## My process
-
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
